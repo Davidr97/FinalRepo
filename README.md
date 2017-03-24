@@ -9,3 +9,5 @@ This is my third line.
 This is my fourth line.
 
 This is my fifth line.
+
+Extended.
