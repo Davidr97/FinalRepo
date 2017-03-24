@@ -10,4 +10,3 @@ This is my fourth line.
 
 This is my fifth line.
 
-Extended.
